@@ -22,3 +22,9 @@ Q5. How do the diagrams help you visualize the branch structure?
 
 A: great illustration.
 
+Q6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A:
+1. put all the changes of the two branches into master branch
+2. build up the concept
+
