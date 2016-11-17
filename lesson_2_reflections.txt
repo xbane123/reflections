@@ -1,17 +1,24 @@
-What happens when you initialize a repository? Why do you need to do it?
+Q1. What happens when you initialize a repository? Why do you need to do it?
 
+A:
 1. it creates a .git file for logging purpose.
 2. to let git know this is the start point.
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+Q2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-it's a temp space to store the transition info.
+A: it's a temp space to store the transition info.
 
-How can you use the staging area to make sure you have one commit per logical change?
+Q3. How can you use the staging area to make sure you have one commit per logical change?
 
+A:
 1. use "git diff" to check the changes between workind directory and staging area
 2. use "git diff --staged" to check the changes between staging area and commit1
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Q4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-such as to experiment some new feathures and not sure it will be included in the master project
+A:such as to experiment some new feathures and not sure it will be included in the master project
+
+Q5. How do the diagrams help you visualize the branch structure?
+
+A: great illustration.
+
