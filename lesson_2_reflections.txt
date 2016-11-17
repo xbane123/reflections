@@ -28,3 +28,8 @@ A:
 1. put all the changes of the two branches into master branch
 2. build up the concept
 
+Q7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A:
+1. pros: save time
+2. cons: leave some logic decisions for coder to make
