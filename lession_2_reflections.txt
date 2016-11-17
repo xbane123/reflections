@@ -1,9 +1,0 @@
-What happens when you initialize a repository? Why do you need to do it?
-
-1. it creates a .git file for logging purpose.
-2. to let git know this is the start point.
-
-How is the staging area different from the working directory and the repository? What value do you think it offers?
-
-it's a temp space to store the transition info.
-
