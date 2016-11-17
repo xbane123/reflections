@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+1. it creates a .git file for logging purpose.
+2. to let git know this is the start point.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+it's a temp space to store the transition info.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+1. use "git diff" to check the changes between workind directory and staging area
+2. use "git diff --staged" to check the changes between staging area and commit1
