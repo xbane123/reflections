@@ -13,3 +13,10 @@ A: fork: To get a copy of repo from other people at GitHub and save it at GitHub
 Q4. What is the benefit of having a copy of the last known state of the remote stored locally?
 A: It wound be the baseline that allows user to know what changes are made from that point.
    Also, the baseline is sync to one point of the repo at GitHub, then changes at GitHub can be figure out.
+
+Q5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: Without Git or GitHub, I got to ask others if any changes are made by them to ensure I have the   
+   most-updated file. Git surely helps a lot.
+
+
+
