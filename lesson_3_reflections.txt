@@ -18,5 +18,11 @@ Q5. How would you collaborate without using Git or GitHub? What would be easier,
 A: Without Git or GitHub, I got to ask others if any changes are made by them to ensure I have the   
    most-updated file. Git surely helps a lot.
 
+Q6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: If I want to add some features or experiment some ideas, I would definitely do it on a separate branch.
+   Doing directly in master seems a straight forward way, but things will become much complicated and hard
+   to control if there are other contributors working on the same repo at the same time.
+
+
 
 
