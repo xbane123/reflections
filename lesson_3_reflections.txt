@@ -9,3 +9,7 @@ Q3. Describe the differences between forks, clones, and branches. When would you
 A: fork: To get a copy of repo from other people at GitHub and save it at GitHub
    clone: To make a copy of my own repo. It cound happens at local to local or at GitHub to GitHub.
    branch: Only at local, to extend a branch from the master of a current repo.
+
+Q4. What is the benefit of having a copy of the last known state of the remote stored locally?
+A: It wound be the baseline that allows user to know what changes are made from that point.
+   Also, the baseline is sync to one point of the repo at GitHub, then changes at GitHub can be figure out.
