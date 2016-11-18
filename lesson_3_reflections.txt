@@ -1,0 +1,2 @@
+Q1. When would you want to use a remote repository rather than keeping all your work local?
+A: When some big changes are made, other contributors can review the lastest version easily.
